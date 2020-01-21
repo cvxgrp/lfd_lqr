@@ -16,7 +16,7 @@ Start a Jupyter notebook server with
 ```
 jupyter notebook
 ```
-and then run each of the individual notebooks.
+and then run each of the individual notebooks: `small random.ipynb`, `flip.ipynb`, and `aircraft control.ipynb`.
 
 ## Methods
 
