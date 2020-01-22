@@ -68,6 +68,6 @@ If you use our code for research, please cite our accompanying paper:
   author={Palan, M. and Barratt, S. and McCauley, A. and Sadigh, D. and Sindhwani, V. and Boyd, S.},
   title={Fitting a Linear Control Policy to Demonstrations with a Kalman Constraint},
   year={2020},
-  howpublished={\texttt{http://web.stanford.edu/~boyd/papers/lfd_lqr.html}}
+  journal={arXiv preprint arXiv:2001.07572}
 }
 ```
